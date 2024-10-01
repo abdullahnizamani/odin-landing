@@ -81,3 +81,44 @@
 
     margin: auto;
 }
+
+.call-for-action-flex{
+    display: flex;
+    flex-direction: row;
+    height: 500px;
+    justify-content: space-between;
+    
+    width: 100%;
+
+}
+
+
+.div-cont{
+    display: flex;
+    justify-content: space-between;
+    background-color: #3B82F6;
+    height: 35%;
+    width: 70%;
+    margin: auto;
+}
+.div-cont-item{
+    width: 50%;
+    margin: auto;
+    margin-left: 120px;
+}
+
+.footer-flex{
+    display: flex;
+    flex-direction: row;
+    background-color: #1F2937;
+    height: 80px;
+    justify-content: space-between;
+    
+    width: 100%;
+
+
+}
+.footer-cont{
+    width: 100%;
+margin: auto;
+text-align: center;}
